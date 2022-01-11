@@ -1,0 +1,10 @@
+var personName = "Khalid";
+var age = 18;
+var salary = 1000.50;
+var isMarried = false;
+var dateOfBirth = new Date();
+var color = "red";
+var height = '1.76cm';
+var something = null;
+var sthElse = undefined;
+var friends = ['Ahmed', 'Mohamed', 'Aidarous', 'Hamse'];

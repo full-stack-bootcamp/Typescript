@@ -1,0 +1,6 @@
+typescript : is similar to the javascript
+Browses don't understand the typescript so we convert it to js by using an NPM typescript
+
+tsc .\classes.ts --outDir build // will add your ts file to a build folder by converting it to classes.js
+node .\build\classes.js --->this command runs your code
+

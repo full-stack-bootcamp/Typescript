@@ -1,0 +1,10 @@
+let personName: string = "Khalid";
+let age:number = 18;
+let salary: number = 1000.50;
+let isMarried:Boolean = false;
+let dateOfBirth: Date = new Date();
+let color: any = "red";
+let height : unknown = '1.76cm';
+let something: null = null;
+let sthElse : undefined = undefined;
+let friends : string[] = ['Ahmed', 'Mohamed', 'Aidarous', 'Hamse'];
